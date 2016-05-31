@@ -1,7 +1,7 @@
 'use strict';
 
 var resources  = [
-        'Requests','Users','Attachments', 'Forums', 'Posts'
+        'Requests','Users','Attachments', 'Forums', 'Posts', 'Tickets'
     ];
 
 exports.client = function(options){

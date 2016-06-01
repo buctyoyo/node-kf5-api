@@ -1,6 +1,6 @@
 {
   "name": "yo-kf5",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "description": "kf5 API client",
   "homepage": "https://github.com/buctyoyo/node-kf5-api",
   "main": "index.js",
